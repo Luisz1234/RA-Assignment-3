@@ -81,14 +81,14 @@ Detailed tables are printed to the terminal showing:
 * Average Estimate
 * Relative Error (%)
 for every algorithm across all 8 datasets:
-** crusoe.txt
-** dracula.txt
-** iliad.txt
-** mare-balena.txt
-** midsummer-nights-dream.txt
-** quijote.txt
-** valley-fear.txt
-** war-peace.txt
+1. `crusoe.txt`
+2. `dracula.txt`
+3. `iliad.txt`
+4. `mare-balena.txt`
+5. `midsummer-nights-dream.txt`
+6. `quijote.txt`
+7. `valley-fear.txt`
+8. `war-peace.txt`
 
 The output also includes the results of the Alpha Skewness hypothesis test.
 
