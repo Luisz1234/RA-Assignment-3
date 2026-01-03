@@ -97,7 +97,7 @@ The output also includes the results of the Alpha Skewness hypothesis test.
 ### Generated Figures (Plots) 
 
 A Python script is automatically triggered to generate two PNG images in the project root directory:
-* `hll_plot.png`
+* `hll_plot.png`:
 Visualizes how the HyperLogLog error decreases as the number of registers (m) increases.
-* `rec_plot.png`
+* `rec_plot.png`:
 Visualizes how the Recordinality error decreases as the sample size (k) increases.
