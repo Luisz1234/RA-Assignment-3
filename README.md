@@ -80,7 +80,9 @@ The program produces two types of output:
 Detailed tables are printed to the terminal showing:
 * Average Estimate
 * Relative Error (%)
+  
 for every algorithm across all 8 datasets:
+
 1. `crusoe.txt`
 2. `dracula.txt`
 3. `iliad.txt`
